@@ -42,7 +42,7 @@ a:hover{
 }
 
 .Principal{
-  background-image: url(../assets/images/cabecera.jpg);
+  background-image: url(./assets/images/cabecera.jpg);
   color: #fff;
   height: 490px;
   background-size: 140%;
