@@ -89,22 +89,22 @@ a:hover{
 }
 
 
-.chamo{
+.principal{
   display: flex;
   justify-content: space-around;
   padding: 20px;
 }
 
-.chamo_info{
+.principal_info{
   text-align: center;
   padding: 10px
 }
 
-.chamo_info img{
+.principal_info img{
   width: 80px;
 }
 
-.chamo_info h3{
+.principal_info h3{
   padding: 10px;
 }
 
@@ -163,7 +163,13 @@ footer{
 }
 
 .caja-servicios h2{
-  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 1px;
+  margin-top: 30px;
+  margin-left: 30px;
+  margin-right: 60px;
 }
 
 .servicio-info{
